@@ -1,5 +1,6 @@
 # huarongdao 
 [![](https://travis-ci.org/Alamofire/Alamofire.svg?branch=master)](https://travis-ci.org/Alamofire/Alamofire)
+[![](https://img.shields.io/static/v1?label=language&message=python&color=<COLOR>)](https://img.shields.io/endpoint?url=<URL>&style<STYLE>)
 
 python图片华容道
 
